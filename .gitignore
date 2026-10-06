@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-auxilio-ai/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.log
+config/profiles.json
+auxilio_ai/profiles/active.json
+auxilio_ai/profiles/*.json
+auxilio_ai/models/BioSync-Fortnite.onnx
+BioSync.spec

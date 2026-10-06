@@ -1,0 +1,9 @@
+{
+  "fov": 180,
+  "smoothing": 0.45,
+  "aim_point": "chest",
+  "aim_key": "Right mouse",
+  "show_fov": false,
+  "fov_color": "#F06464",
+  "overlay_opacity": 17
+}

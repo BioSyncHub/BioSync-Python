@@ -1,0 +1,6 @@
+onnxruntime-directml==1.16.3
+opencv-python==4.8.1.78
+customtkinter==5.2.2
+bettercam==1.0.0
+numpy==1.26.0
+pywin32==306
